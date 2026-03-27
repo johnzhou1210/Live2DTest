@@ -385,20 +385,20 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Live2D.Cubism::Live2D.Cubism.Rendering.CubismPartColorsEditor
   _childDrawableRenderers:
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
+  - {fileID: 629278787870076735}
+  - {fileID: 5769250133544666444}
+  - {fileID: 623357642545983521}
+  - {fileID: 8222626950390244401}
+  - {fileID: 2576716090140788545}
+  - {fileID: 4029147280591592547}
+  - {fileID: 5993345257691608719}
+  - {fileID: 6822358567190608551}
+  - {fileID: 2366482217796244652}
+  - {fileID: 3872600145620500467}
+  - {fileID: 836889224182025038}
+  - {fileID: 4093064629414412327}
+  - {fileID: 2662717815796055327}
+  - {fileID: 8093365339932080184}
   _childParts: []
   _isOverriddenPartMultiplyColors: 0
   _isOverriddenPartScreenColors: 0
@@ -817,7 +817,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Live2D.Cubism::Live2D.Cubism.Rendering.CubismPartColorsEditor
   _childDrawableRenderers:
-  - {fileID: 0}
+  - {fileID: 3132727646596446243}
   _childParts: []
   _isOverriddenPartMultiplyColors: 0
   _isOverriddenPartScreenColors: 0
@@ -1108,6 +1108,7 @@ GameObject:
   - component: {fileID: 5286645255770731548}
   - component: {fileID: 8355685746821998562}
   - component: {fileID: 4367278186415305924}
+  - component: {fileID: 5630570818923698618}
   m_Layer: 0
   m_Name: ParamAngleX
   m_TagString: Untagged
@@ -1160,6 +1161,20 @@ MonoBehaviour:
   m_EditorClassIdentifier: Live2D.Cubism::Live2D.Cubism.Framework.CubismDisplayInfoParameterName
   Name: Angle X
   DisplayName: 
+--- !u!114 &5630570818923698618
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 368063855991115798}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5c253e62b97ba834bac8dd1c531f2b8d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Live2D.Cubism::Live2D.Cubism.Framework.LookAt.CubismLookParameter
+  Axis: 0
+  Factor: 30
 --- !u!1 &397127959723938622
 GameObject:
   m_ObjectHideFlags: 0
@@ -2534,13 +2549,13 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Live2D.Cubism::Live2D.Cubism.Rendering.CubismPartColorsEditor
   _childDrawableRenderers:
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
+  - {fileID: 7249924012601015736}
+  - {fileID: 3466779785941560141}
+  - {fileID: 1328520384743137433}
+  - {fileID: 5307182614155744976}
+  - {fileID: 8965720453287415753}
+  - {fileID: 4906713740618107234}
+  - {fileID: 6652134159842338601}
   _childParts: []
   _isOverriddenPartMultiplyColors: 0
   _isOverriddenPartScreenColors: 0
@@ -4245,7 +4260,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Live2D.Cubism::Live2D.Cubism.Rendering.CubismPartColorsEditor
   _childDrawableRenderers:
-  - {fileID: 0}
+  - {fileID: 3873607476978291409}
   _childParts: []
   _isOverriddenPartMultiplyColors: 0
   _isOverriddenPartScreenColors: 0
@@ -4912,7 +4927,7 @@ MeshRenderer:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1341022983705061036}
-  m_Enabled: 1
+  m_Enabled: 0
   m_CastShadows: 1
   m_ReceiveShadows: 1
   m_DynamicOccludee: 1
@@ -5622,19 +5637,19 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Live2D.Cubism::Live2D.Cubism.Rendering.CubismPartColorsEditor
   _childDrawableRenderers:
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
+  - {fileID: 2907502777903955115}
+  - {fileID: 7087266084341613918}
+  - {fileID: 4823133940146715445}
+  - {fileID: 6174581910355655485}
+  - {fileID: 7549895571245123725}
+  - {fileID: 8667980115628953667}
+  - {fileID: 8638656882944180248}
+  - {fileID: 1532297631137566738}
   _childParts:
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
+  - {fileID: 6519043277851668776}
+  - {fileID: 984685903569073768}
+  - {fileID: 2187092933708809258}
+  - {fileID: 285113446000896384}
   _isOverriddenPartMultiplyColors: 0
   _isOverriddenPartScreenColors: 0
   _multiplyColor: {r: 1, g: 1, b: 1, a: 1}
@@ -6100,20 +6115,20 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Live2D.Cubism::Live2D.Cubism.Rendering.CubismPartColorsEditor
   _childDrawableRenderers:
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
+  - {fileID: 3445893917581007200}
+  - {fileID: 4669096217526320503}
+  - {fileID: 4887667162570851025}
+  - {fileID: 1944417328073184113}
+  - {fileID: 3807120942134829266}
+  - {fileID: 2963587560986449609}
+  - {fileID: 6835705506881945064}
+  - {fileID: 6278100508972431}
+  - {fileID: 2643544763825987359}
+  - {fileID: 2741326892166677589}
+  - {fileID: 4944904266338036069}
+  - {fileID: 2422252171521033415}
+  - {fileID: 5486592307209322896}
+  - {fileID: 686803214048279275}
   _childParts: []
   _isOverriddenPartMultiplyColors: 0
   _isOverriddenPartScreenColors: 0
@@ -7050,6 +7065,7 @@ GameObject:
   - component: {fileID: 1821170013586685034}
   - component: {fileID: 6235121798428476611}
   - component: {fileID: 4590183565897055762}
+  - component: {fileID: 2050173269506689732}
   m_Layer: 0
   m_Name: ParamEyeBallX
   m_TagString: Untagged
@@ -7102,6 +7118,20 @@ MonoBehaviour:
   m_EditorClassIdentifier: Live2D.Cubism::Live2D.Cubism.Framework.CubismDisplayInfoParameterName
   Name: Eyeball X
   DisplayName: 
+--- !u!114 &2050173269506689732
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2204489585725906082}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5c253e62b97ba834bac8dd1c531f2b8d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Live2D.Cubism::Live2D.Cubism.Framework.LookAt.CubismLookParameter
+  Axis: 0
+  Factor: 1
 --- !u!1 &2305097934642489686
 GameObject:
   m_ObjectHideFlags: 0
@@ -7935,8 +7965,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Live2D.Cubism::Live2D.Cubism.Rendering.CubismPartColorsEditor
   _childDrawableRenderers:
-  - {fileID: 0}
-  - {fileID: 0}
+  - {fileID: 611780235858697000}
+  - {fileID: 8864209335874155455}
   _childParts: []
   _isOverriddenPartMultiplyColors: 0
   _isOverriddenPartScreenColors: 0
@@ -8343,7 +8373,7 @@ MeshRenderer:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2902147532541795582}
-  m_Enabled: 1
+  m_Enabled: 0
   m_CastShadows: 1
   m_ReceiveShadows: 1
   m_DynamicOccludee: 1
@@ -9120,7 +9150,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Live2D.Cubism::Live2D.Cubism.Rendering.CubismPartColorsEditor
   _childDrawableRenderers:
-  - {fileID: 0}
+  - {fileID: 1295058302152948979}
   _childParts: []
   _isOverriddenPartMultiplyColors: 0
   _isOverriddenPartScreenColors: 0
@@ -9160,10 +9190,16 @@ GameObject:
   - component: {fileID: 8254802674592559620}
   - component: {fileID: 7265346903535690114}
   - component: {fileID: 7938442089740637270}
-  - component: {fileID: 2611791873952870763}
   - component: {fileID: 3221034723665803623}
   - component: {fileID: 2465656592853587359}
+  - component: {fileID: 703884313847195608}
   - component: {fileID: 4393214750991975474}
+  - component: {fileID: 3884103455200126885}
+  - component: {fileID: 5936500434326153218}
+  - component: {fileID: 2432037380983648654}
+  - component: {fileID: 673377033311588233}
+  - component: {fileID: 3835467019960703942}
+  - component: {fileID: 3742080627742693042}
   m_Layer: 0
   m_Name: hiyori_pro_t11
   m_TagString: Untagged
@@ -9181,8 +9217,8 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
+  m_LocalScale: {x: 1.5, y: 1.5, z: 1.5}
+  m_ConstrainProportionsScale: 1
   m_Children:
   - {fileID: 2387727446009953012}
   - {fileID: 5821050763016250718}
@@ -9240,7 +9276,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Live2D.Cubism::Live2D.Cubism.Rendering.CubismRenderController
   Opacity: 1
-  _lastOpacity: 0
+  _lastOpacity: 1
   _isOverriddenModelMultiplyColors: 0
   _isOverriddenModelScreenColors: 0
   _modelMultiplyColor: {r: 0, g: 0, b: 0, a: 0}
@@ -9280,8 +9316,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: adeec4ed250bae44d8777078a3ec1e00, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Live2D.Cubism::Live2D.Cubism.Framework.MouthMovement.CubismMouthController
-  BlendMode: 2
-  MouthOpening: 1
+  BlendMode: 1
+  MouthOpening: 0
 --- !u!114 &6694965401881204051
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -9306,7 +9342,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 967223d908bf07b4f90945995bdca68f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Live2D.Cubism::Live2D.Cubism.Rendering.Masking.CubismMaskController
-  _maskTexture: {fileID: 0}
+  _maskTexture: {fileID: 11400000, guid: 16bf142754640ab4487bb625c30931fd, type: 2}
 --- !u!114 &8254802674592559620
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -9344,21 +9380,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Live2D.Cubism::Live2D.Cubism.Framework.Pose.CubismPoseController
   defaultPoseIndex: 0
---- !u!114 &2611791873952870763
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3232621818401250727}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: b893d4d32dd60bc4c9a2e447d31c6e88, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Live2D.Cubism::Live2D.Cubism.Framework.Expression.CubismExpressionController
-  ExpressionsList: {fileID: 0}
-  UseLegacyBlendCalculation: 0
-  CurrentExpressionIndex: -1
 --- !u!95 &3221034723665803623
 Animator:
   serializedVersion: 7
@@ -9394,6 +9415,19 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Live2D.Cubism::Live2D.Cubism.Framework.MotionFade.CubismFadeController
   CubismFadeMotionList: {fileID: 11400000, guid: 13708d3a012004ba4acb4be46e7f7729, type: 2}
+--- !u!114 &703884313847195608
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3232621818401250727}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b5ebe254d34723249a16ad2f6ba8058b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Live2D.Cubism::Live2D.Cubism.Framework.Motion.CubismMotionController
+  LayerCount: 1
 --- !u!114 &4393214750991975474
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -10293,6 +10327,93 @@ MonoBehaviour:
     Gravity: {x: 0, y: -1}
     Wind: {x: 0, y: 0}
     Fps: 0
+--- !u!114 &3884103455200126885
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3232621818401250727}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 084c42df15c721f42b28ff9d23a21c8a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Live2D.Cubism::Live2D.Cubism.Framework.CubismAutoEyeBlinkInput
+  Mean: 2.5
+  MaximumDeviation: 2
+  Timescale: 10
+--- !u!114 &5936500434326153218
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3232621818401250727}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5c6228d5d5bd43fdaaed7a8777ddaad, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::MotionPlayer
+--- !u!114 &2432037380983648654
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3232621818401250727}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1a162b857e4416245819153f6e443839, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Live2D.Cubism::Live2D.Cubism.Framework.Raycasting.CubismRaycaster
+--- !u!114 &673377033311588233
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3232621818401250727}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f73d28c5e3e468f4ead9ebd0ac07ef09, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Live2D.Cubism::Live2D.Cubism.Framework.LookAt.CubismLookController
+  BlendMode: 0
+  _target: {fileID: 0}
+  Center: {fileID: 0}
+  Damping: 0.15
+--- !u!114 &3835467019960703942
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3232621818401250727}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 596596629ba4c45b8b2a10202b7f5b3b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::MouthLipSyncPriority
+  audioInput: {fileID: 0}
+  mouthParameterId: ParamMouthOpenY
+  gain: 20
+  silenceThreshold: 0.02
+  smoothing: 0.05
+--- !u!114 &3742080627742693042
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3232621818401250727}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7fdbd2f0b5a84544698d697356f8fea0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Live2D.Cubism::Live2D.Cubism.Framework.HarmonicMotion.CubismHarmonicMotionController
+  BlendMode: 0
+  ChannelTimescales:
+  - 1
 --- !u!1 &3234106366504499971
 GameObject:
   m_ObjectHideFlags: 0
@@ -10354,34 +10475,34 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Live2D.Cubism::Live2D.Cubism.Rendering.CubismPartColorsEditor
   _childDrawableRenderers:
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
+  - {fileID: 9206314301699871732}
+  - {fileID: 24423745879622530}
+  - {fileID: 4672350757299530723}
+  - {fileID: 8465672121311123028}
+  - {fileID: 5872432212771331038}
+  - {fileID: 1007447730089039001}
+  - {fileID: 8876998405972070318}
+  - {fileID: 4064650938274541698}
+  - {fileID: 4995737914843921467}
+  - {fileID: 484989570979403694}
+  - {fileID: 2730948627705958333}
+  - {fileID: 1810679350099102625}
+  - {fileID: 6144865279990520651}
+  - {fileID: 5618952811069857094}
+  - {fileID: 5788406341615044996}
+  - {fileID: 1962597304782903500}
+  - {fileID: 1934960185822276379}
+  - {fileID: 2854520394999359525}
+  - {fileID: 7590101614379565344}
+  - {fileID: 5670010140980374213}
+  - {fileID: 5505693051549553237}
+  - {fileID: 4881186046767073395}
+  - {fileID: 8124917408521275980}
+  - {fileID: 1700218111864104392}
+  - {fileID: 4399525212694555103}
+  - {fileID: 632508590714116681}
   _childParts:
-  - {fileID: 0}
+  - {fileID: 5255784924622576112}
   _isOverriddenPartMultiplyColors: 0
   _isOverriddenPartScreenColors: 0
   _multiplyColor: {r: 1, g: 1, b: 1, a: 1}
@@ -10724,7 +10845,7 @@ MeshRenderer:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 3260306321000218152}
-  m_Enabled: 1
+  m_Enabled: 0
   m_CastShadows: 1
   m_ReceiveShadows: 1
   m_DynamicOccludee: 1
@@ -11244,7 +11365,7 @@ MeshRenderer:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 3599000418072116359}
-  m_Enabled: 1
+  m_Enabled: 0
   m_CastShadows: 1
   m_ReceiveShadows: 1
   m_DynamicOccludee: 1
@@ -11992,13 +12113,13 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Live2D.Cubism::Live2D.Cubism.Rendering.CubismPartColorsEditor
   _childDrawableRenderers:
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
+  - {fileID: 406409844559865211}
+  - {fileID: 4377654015395225219}
+  - {fileID: 6963246311718577443}
+  - {fileID: 4106973328111009790}
+  - {fileID: 608017804968116285}
+  - {fileID: 761197037114969993}
+  - {fileID: 9080142778375331689}
   _childParts: []
   _isOverriddenPartMultiplyColors: 0
   _isOverriddenPartScreenColors: 0
@@ -12079,8 +12200,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Live2D.Cubism::Live2D.Cubism.Rendering.CubismPartColorsEditor
   _childDrawableRenderers:
-  - {fileID: 0}
-  - {fileID: 0}
+  - {fileID: 4825701941721951782}
+  - {fileID: 6760044536701366601}
   _childParts: []
   _isOverriddenPartMultiplyColors: 0
   _isOverriddenPartScreenColors: 0
@@ -12547,7 +12668,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Live2D.Cubism::Live2D.Cubism.Rendering.CubismPartColorsEditor
   _childDrawableRenderers:
-  - {fileID: 0}
+  - {fileID: 5445252207279901756}
   _childParts: []
   _isOverriddenPartMultiplyColors: 0
   _isOverriddenPartScreenColors: 0
@@ -12822,18 +12943,18 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Live2D.Cubism::Live2D.Cubism.Rendering.CubismPartColorsEditor
   _childDrawableRenderers:
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
+  - {fileID: 7405219152432199689}
+  - {fileID: 2421060395718356964}
+  - {fileID: 3693977704666568443}
+  - {fileID: 9004061574674556725}
+  - {fileID: 4418782313296122409}
+  - {fileID: 7463388742848530124}
+  - {fileID: 8127922174095309573}
+  - {fileID: 6837759821932475359}
+  - {fileID: 541546671996756618}
+  - {fileID: 4570460189035340561}
+  - {fileID: 479431075452473566}
+  - {fileID: 8316507620532369254}
   _childParts: []
   _isOverriddenPartMultiplyColors: 0
   _isOverriddenPartScreenColors: 0
@@ -13059,8 +13180,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Live2D.Cubism::Live2D.Cubism.Rendering.CubismPartColorsEditor
   _childDrawableRenderers:
-  - {fileID: 0}
-  - {fileID: 0}
+  - {fileID: 6893406284138787549}
+  - {fileID: 7594724943472416152}
   _childParts: []
   _isOverriddenPartMultiplyColors: 0
   _isOverriddenPartScreenColors: 0
@@ -14429,13 +14550,13 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Live2D.Cubism::Live2D.Cubism.Rendering.CubismPartColorsEditor
   _childDrawableRenderers:
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
+  - {fileID: 2548464325972666459}
+  - {fileID: 3689643228130310944}
+  - {fileID: 7440142976213418588}
+  - {fileID: 8811079151692687087}
+  - {fileID: 1962927125191524175}
+  - {fileID: 3720701615738334467}
+  - {fileID: 5906512334437564745}
   _childParts: []
   _isOverriddenPartMultiplyColors: 0
   _isOverriddenPartScreenColors: 0
@@ -15372,6 +15493,7 @@ GameObject:
   - component: {fileID: 144558384291183849}
   - component: {fileID: 700260372676465776}
   - component: {fileID: 5025594059987406529}
+  - component: {fileID: 3605264144984094307}
   m_Layer: 0
   m_Name: ParamEyeBallY
   m_TagString: Untagged
@@ -15424,6 +15546,20 @@ MonoBehaviour:
   m_EditorClassIdentifier: Live2D.Cubism::Live2D.Cubism.Framework.CubismDisplayInfoParameterName
   Name: Eyeball Y
   DisplayName: 
+--- !u!114 &3605264144984094307
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5268400369822364165}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5c253e62b97ba834bac8dd1c531f2b8d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Live2D.Cubism::Live2D.Cubism.Framework.LookAt.CubismLookParameter
+  Axis: 1
+  Factor: 1
 --- !u!1 &5289187447476102677
 GameObject:
   m_ObjectHideFlags: 0
@@ -16534,14 +16670,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Live2D.Cubism::Live2D.Cubism.Rendering.CubismPartColorsEditor
   _childDrawableRenderers:
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
+  - {fileID: 4516767708306258417}
+  - {fileID: 9162605550520384070}
+  - {fileID: 4494352988857485740}
+  - {fileID: 3446859940107655550}
+  - {fileID: 7183804438075264267}
+  - {fileID: 8787057057573945255}
+  - {fileID: 1194175121645378135}
+  - {fileID: 1617135622134714863}
   _childParts: []
   _isOverriddenPartMultiplyColors: 0
   _isOverriddenPartScreenColors: 0
@@ -18380,12 +18516,12 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Live2D.Cubism::Live2D.Cubism.Rendering.CubismPartColorsEditor
   _childDrawableRenderers:
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
+  - {fileID: 8341319522064995373}
+  - {fileID: 1704150719901366880}
+  - {fileID: 6687861491729080533}
+  - {fileID: 365489228157794692}
+  - {fileID: 205994175899932001}
+  - {fileID: 168155786606227234}
   _childParts: []
   _isOverriddenPartMultiplyColors: 0
   _isOverriddenPartScreenColors: 0
@@ -18599,7 +18735,7 @@ MeshRenderer:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 6860560716869127819}
-  m_Enabled: 1
+  m_Enabled: 0
   m_CastShadows: 1
   m_ReceiveShadows: 1
   m_DynamicOccludee: 1
@@ -19546,6 +19682,8 @@ GameObject:
   - component: {fileID: 2817444609799043320}
   - component: {fileID: 1113332709523793177}
   - component: {fileID: 3501753825244150430}
+  - component: {fileID: 399127385851811246}
+  - component: {fileID: 1243399208927669634}
   m_Layer: 0
   m_Name: ParamBodyAngleY
   m_TagString: Untagged
@@ -19598,6 +19736,37 @@ MonoBehaviour:
   m_EditorClassIdentifier: Live2D.Cubism::Live2D.Cubism.Framework.CubismDisplayInfoParameterName
   Name: Body Y
   DisplayName: 
+--- !u!114 &399127385851811246
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7206828654053930224}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5c253e62b97ba834bac8dd1c531f2b8d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Live2D.Cubism::Live2D.Cubism.Framework.LookAt.CubismLookParameter
+  Axis: 1
+  Factor: 10
+--- !u!114 &1243399208927669634
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7206828654053930224}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aef61b2310c3336498fc218c4dffb25e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Live2D.Cubism::Live2D.Cubism.Framework.HarmonicMotion.CubismHarmonicMotionParameter
+  Channel: 0
+  Direction: 2
+  NormalizedOrigin: 0.5
+  NormalizedRange: 0.2
+  Duration: 4.78
 --- !u!1 &7214860629375916464
 GameObject:
   m_ObjectHideFlags: 0
@@ -20788,6 +20957,8 @@ GameObject:
   - component: {fileID: 1982647975812416268}
   - component: {fileID: 7417189728994017245}
   - component: {fileID: 3559519249594924262}
+  - component: {fileID: 7684760375512126434}
+  - component: {fileID: 9212517577567131611}
   m_Layer: 0
   m_Name: ParamBodyAngleX
   m_TagString: Untagged
@@ -20840,6 +21011,37 @@ MonoBehaviour:
   m_EditorClassIdentifier: Live2D.Cubism::Live2D.Cubism.Framework.CubismDisplayInfoParameterName
   Name: Body X
   DisplayName: 
+--- !u!114 &7684760375512126434
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7461098014624046375}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5c253e62b97ba834bac8dd1c531f2b8d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Live2D.Cubism::Live2D.Cubism.Framework.LookAt.CubismLookParameter
+  Axis: 0
+  Factor: 10
+--- !u!114 &9212517577567131611
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7461098014624046375}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aef61b2310c3336498fc218c4dffb25e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Live2D.Cubism::Live2D.Cubism.Framework.HarmonicMotion.CubismHarmonicMotionParameter
+  Channel: 0
+  Direction: 0
+  NormalizedOrigin: 0.5
+  NormalizedRange: 0.5
+  Duration: 3
 --- !u!1 &7527389672329572289
 GameObject:
   m_ObjectHideFlags: 0
@@ -22261,13 +22463,13 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Live2D.Cubism::Live2D.Cubism.Rendering.CubismPartColorsEditor
   _childDrawableRenderers:
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
+  - {fileID: 2430176969386493869}
+  - {fileID: 1889666820025444114}
+  - {fileID: 4398242773335486000}
+  - {fileID: 8730572858365891196}
+  - {fileID: 653362180994440675}
+  - {fileID: 3574704109168197000}
+  - {fileID: 8570728938558086698}
   _childParts: []
   _isOverriddenPartMultiplyColors: 0
   _isOverriddenPartScreenColors: 0
@@ -22424,6 +22626,7 @@ GameObject:
   - component: {fileID: 9177591246318661414}
   - component: {fileID: 4596388929914584894}
   - component: {fileID: 2054913781814177371}
+  - component: {fileID: 3449120344289489698}
   m_Layer: 0
   m_Name: ParamAngleY
   m_TagString: Untagged
@@ -22476,6 +22679,20 @@ MonoBehaviour:
   m_EditorClassIdentifier: Live2D.Cubism::Live2D.Cubism.Framework.CubismDisplayInfoParameterName
   Name: Angle Y
   DisplayName: 
+--- !u!114 &3449120344289489698
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8208813307929626718}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5c253e62b97ba834bac8dd1c531f2b8d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Live2D.Cubism::Live2D.Cubism.Framework.LookAt.CubismLookParameter
+  Axis: 1
+  Factor: 30
 --- !u!1 &8216749591580617943
 GameObject:
   m_ObjectHideFlags: 0
@@ -22537,14 +22754,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Live2D.Cubism::Live2D.Cubism.Rendering.CubismPartColorsEditor
   _childDrawableRenderers:
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
+  - {fileID: 526534269184165448}
+  - {fileID: 4121158296729113078}
+  - {fileID: 928910803739689807}
+  - {fileID: 8405707497323855918}
+  - {fileID: 3337231819964269965}
+  - {fileID: 48265046822610008}
+  - {fileID: 8428950473371929973}
+  - {fileID: 2802935934848640512}
   _childParts: []
   _isOverriddenPartMultiplyColors: 0
   _isOverriddenPartScreenColors: 0

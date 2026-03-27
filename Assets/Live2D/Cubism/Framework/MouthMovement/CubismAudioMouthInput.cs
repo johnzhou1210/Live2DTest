@@ -34,7 +34,7 @@ namespace Live2D.Cubism.Framework.MouthMovement
         /// <summary>
         /// Audio gain.
         /// </summary>
-        [Range(1.0f, 10.0f)]
+        [Range(1.0f, 20.0f)]
         public float Gain = 1.0f;
 
         /// <summary>

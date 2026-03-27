@@ -1,15 +1,27 @@
-using System;
+using Live2D.Cubism.Framework.Motion;
 using UnityEngine;
 
 public class MotionPlayer : MonoBehaviour
 {
-    private Animator animator;
+    private CubismMotionController _motionController;
 
-    private void Awake() {
-        animator = GetComponent<Animator>();
+    private void Start()
+    {
+        _motionController = GetComponent<CubismMotionController>();
     }
 
-    public void PlayMotion(AnimationClip clip) {
-        animator.Play(clip.name);
+    public void PlayMotion(AnimationClip animation)
+    {
+        if (_motionController == null || animation == null)
+        {
+            return;
+        }
+
+        _motionController.PlayAnimation(
+            animation,
+            layerIndex: 0,
+            priority: CubismMotionPriority.PriorityForce,
+            isLoop: false
+        );
     }
 }
