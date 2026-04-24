@@ -287,6 +287,12 @@ MonoBehaviour:
       m_LigatureGlyphID: 1825
     - m_ComponentGlyphIDs: b2010000eb010000
       m_LigatureGlyphID: 1831
+    - m_ComponentGlyphIDs: a80000001200000010030000
+      m_LigatureGlyphID: 1537
+    - m_ComponentGlyphIDs: a80000001200000035050000
+      m_LigatureGlyphID: 1538
+    - m_ComponentGlyphIDs: a9030000120000001f010000
+      m_LigatureGlyphID: 2936
     m_GlyphPairAdjustmentRecords: []
     m_MarkToBaseAdjustmentRecords: []
     m_MarkToMarkAdjustmentRecords: []
